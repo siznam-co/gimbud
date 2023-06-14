@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963964403354",
+    "project_id": "gymbud-b7926",
+    "storage_bucket": "gymbud-b7926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963964403354:android:4a516325978d91c77a2923",
+        "android_client_info": {
+          "package_name": "com.siznam.gymbud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963964403354-nvsjqvaonttb1kfl2sd18arm8e2e5an4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7HaziHS4IIwsRV50wgNrCGQprXkv_bq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963964403354-nvsjqvaonttb1kfl2sd18arm8e2e5an4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
